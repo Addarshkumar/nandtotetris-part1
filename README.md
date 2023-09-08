@@ -1,1 +1,1 @@
-# nandtotetris-part1
+# nandtotetris-project1.1
